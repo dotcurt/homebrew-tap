@@ -1,7 +1,7 @@
 class CurtOpenwith < Formula
   desc "Offline .curt conversation viewer — double-click a .curt file to render it locally in your browser"
-  homepage "https://github.com/JordanNewell/curt-openwith"
-  url "https://github.com/JordanNewell/curt-openwith/releases/download/v1.0.1/curt-openwith-v1.0.1.zip"
+  homepage "https://github.com/dotcurt/curt-openwith"
+  url "https://github.com/dotcurt/curt-openwith/releases/download/v1.0.1/curt-openwith-v1.0.1.zip"
   sha256 "fe7865bf6ccc2c594afee2d1518865c16c8c5945269db03e6a7883def47345de"
   license "MIT"
 
