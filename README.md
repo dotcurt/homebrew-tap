@@ -1,8 +1,12 @@
 # .curt Homebrew tap
 
+[![curt-openwith](https://img.shields.io/github/v/release/dotcurt/curt-openwith?style=flat-square&label=curt-openwith)](https://github.com/dotcurt/curt-openwith/releases)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](./LICENSE)
+![Platform](https://img.shields.io/badge/platform-macOS-black?style=flat-square)
+
 [Homebrew](https://brew.sh) tap for [.curt](https://github.com/dotcurt) format tools.
 
-## Usage
+## Install
 
 ```sh
 brew install dotcurt/tap/curt-openwith
