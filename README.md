@@ -1,19 +1,18 @@
-# JordanNewell's Homebrew tap
+# .curt Homebrew tap
 
-Personal [Homebrew](https://brew.sh) tap for JordanNewell's tools.
+[Homebrew](https://brew.sh) tap for [.curt](https://github.com/dotcurt) format tools.
 
 ## Usage
 
 ```sh
-brew tap JordanNewell/tap https://github.com/JordanNewell/homebrew-tap
-brew install curt-openwith
+brew install dotcurt/tap/curt-openwith
 ```
 
 ## Formulas
 
 | Formula | Description |
 |---------|-------------|
-| [curt-openwith](https://github.com/JordanNewell/curt-openwith) | Offline `.curt` conversation viewer — renders the conversation locally in your browser. |
+| [curt-openwith](https://github.com/dotcurt/curt-openwith) | Offline `.curt` conversation viewer — renders the conversation locally in your browser. |
 
 ### curt-openwith post-install
 
