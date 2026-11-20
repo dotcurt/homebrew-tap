@@ -31,6 +31,6 @@ This builds `Curt Viewer.app` into `~/Applications`, registers it with
 LaunchServices, and (if `duti` is installed) sets it as the default handler
 for `.curt`.
 
-**Windows users:** use the [Scoop bucket](https://github.com/JordanNewell/bucket)
+**Windows users:** use the [Scoop bucket](https://github.com/dotcurt/bucket)
 instead — the Windows path is the native launcher (`CurtViewer.exe`) plus
 `install.cmd`.
