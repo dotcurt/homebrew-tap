@@ -30,7 +30,7 @@ class CurtOpenwith < Formula
       On Linux use `bash #{libexec}/linux/install.sh` instead, or install
       directly from the release zip. On Windows use Scoop:
 
-        scoop bucket add jordannewell https://github.com/JordanNewell/bucket
+        scoop bucket add dotcurt https://github.com/dotcurt/bucket
         scoop install curt-openwith
     EOS
   end
